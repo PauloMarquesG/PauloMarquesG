@@ -1,4 +1,4 @@
-<img scr="banner.gif"/>
+<img scr="https://github.com/PauloMarquesG/Paulo-Marques-Gon-alves/blob/main/banner.jpg"/>
 
  <div>
   <a href="https://github.com/rafaballerini">

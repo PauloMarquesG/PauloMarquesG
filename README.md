@@ -11,6 +11,7 @@
   <p>💭 Um dia ainda quero poder ensinar tudo que eu aprendi.</p>
 
   ![GitHub followers](https://img.shields.io/github/followers/PauloMarquesG?style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=PauloMarquesG&color=green" alt="Profile views" />
 </div>
 
 <div align="center">

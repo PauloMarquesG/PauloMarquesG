@@ -1,4 +1,4 @@
-![Bem vindo ao Dev.Lawyer!](https://github.com/PauloMarquesG/PauloMarquesG/blob/main/banner.png)
+![Bem vindo ao Dev.Lawyer!]()
 
 <div align="center">
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloMarquesG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

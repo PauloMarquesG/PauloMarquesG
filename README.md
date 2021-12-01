@@ -1,6 +1,17 @@
-![Olá,Seja bem-vindo ao perfil do Paulo](https://github.com/PauloMarquesG/PauloMarquesG/blob/main/header.png)
+![Olá,Seja bem-vindo ao perfil do Paulo](https://github.com/PauloMarquesG/PauloMarquesG/blob/main/Photos/header.png)
+<div>
+  <img align="right" height="250em" src="https://github.com/PauloMarquesG/PauloMarquesG/blob/main/Photos/avatar.jpg" />
 
-<img scr=""/>
+  # Paulo Marques Gonçalves
+
+  <p>⏳ Tenho 18 anos.</p>
+  <p>🌎 Moro em São Paulo - Brasil.</p>
+  <p>🏫 Estudando na Faculdade de Tecnologia de São Paulo - FATEC SP.</p>
+  <p>💻 Interesses: MySql, HTML, CSS, JavaScript e C.</p>
+  <p>💭 Um dia ainda quero poder ensinar tudo que eu aprendi.</p>
+
+  ![GitHub followers](https://img.shields.io/github/followers/PauloMarquesG?style=flat-square)
+</div>
 
 <div align="center">
   <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloMarquesG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

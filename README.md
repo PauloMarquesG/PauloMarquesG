@@ -1,6 +1,6 @@
 ![Olá,Seja bem-vindo ao perfil do Paulo](https://github.com/PauloMarquesG/PauloMarquesG/blob/main/Photos/header.png)
 <div>
-  <img align="right" height="250em" src="https://avatars.githubusercontent.com/u/82685447" />
+  <img align="right" height="250em" src="https://media-exp1.licdn.com/dms/image/C4D03AQE_5yKXRELb0g/profile-displayphoto-shrink_800_800/0/1650246618726?e=1657152000&v=beta&t=lsUGa-BpU0T4BL2bQKBfIEH8HYU-AtaEbH6qDb0U5wI" />
 
   # Paulo Marques Gonçalves
 

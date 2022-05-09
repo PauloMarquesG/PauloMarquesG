@@ -1,6 +1,6 @@
 ![Olá,Seja bem-vindo ao perfil do Paulo](https://github.com/PauloMarquesG/PauloMarquesG/blob/main/Photos/header.png)
 <div>
-  <img align="right" height="250em" src="https://media-exp1.licdn.com/dms/image/C4D03AQE_5yKXRELb0g/profile-displayphoto-shrink_800_800/0/1650246618726?e=1657152000&v=beta&t=lsUGa-BpU0T4BL2bQKBfIEH8HYU-AtaEbH6qDb0U5wI" />
+  <img align="right" height="250em" src="https://media-exp1.licdn.com/dms/image/C4D03AQGqdI2V6OyDEw/profile-displayphoto-shrink_400_400/0/1652132777612?e=1657756800&v=beta&t=CVS5BLvXoSjahmb32JNOBZraxEhGH672JQafTJj9GgAlsUGa-BpU0T4BL2bQKBfIEH8HYU-AtaEbH6qDb0U5wI" />
 
   # Paulo Marques Gonçalves
 

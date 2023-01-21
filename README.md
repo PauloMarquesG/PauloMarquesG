@@ -42,12 +42,12 @@
 
 # Contato
 <a href="https://www.linkedin.com/in/paulo-marques-gonçalves/" target="_blank">
-  <img target="_blank" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 <a href="https://www.instagram.com/paulinhn_/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-mediumvioletred?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/-Instagram-mediumvioletred?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
 <a href="https://discord.gg/2uXyGHrzVu" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-slateblue?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/-Discord-slateblue?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </a>
 

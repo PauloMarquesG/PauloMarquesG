@@ -12,7 +12,8 @@
   <p>💻 Interesses: Java, JavaScript, Angular e HTML/CSS.</p>
   <p>💭 Um dia ainda quero poder ensinar tudo que eu aprendi.</p>
 
-  ![GitHub followers](https://img.shields.io/github/followers/PauloMarquesG?style=flat-square)
+  <a href="https://paulomarquesg.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/static/v1?label=Portfolio&message=website&color=blue&style=for-the-badge"/></a>
+
 </div>
   
 <hr>
@@ -25,23 +26,28 @@
   </a>
 </p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMarquesG&layout=compact&langs_count=5&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloMarquesG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<div align="center" >
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloMarquesG&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMarquesG&theme=dark&layout=compact"/>
 </div>
+
 <div>
   
   # Empresas
 
   <a href="https://www.trust.com.br"><p>Grupo Trust - Estagiário</a><br>(2021-2022)📆</p>
   <a href="https://www.original.com.br"><p>Banco Original - Estagiário</a><br>(2022 - Atualmente)📆</p>
-  
 </div>
 
 
 # Contato
-
-  <a href="https://www.linkedin.com/in/paulo-marques-gonçalves/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="https://www.instagram.com/paulinhn_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-  <a href="https://discord.gg/2uXyGHrzVu" target="_blank"><img src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="https://www.linkedin.com/in/paulo-marques-gonçalves/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.instagram.com/paulinhn_/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-mediumvioletred?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://discord.gg/2uXyGHrzVu" target="_blank">
+  <img src="https://img.shields.io/badge/-Discord-slateblue?style=for-the-badge&logo=discord&logoColor=white">
+</a>
 

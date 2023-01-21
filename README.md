@@ -42,7 +42,7 @@
 
 # Contato
 <a href="https://www.linkedin.com/in/paulo-marques-gonçalves/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img target="_blank" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.instagram.com/paulinhn_/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-mediumvioletred?style=for-the-badge&logo=instagram&logoColor=white">

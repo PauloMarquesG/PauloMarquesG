@@ -6,11 +6,11 @@
   
   # Paulo Marques Gonçalves
 
-  <p>⏳ Tenho 19 anos.</p>
-  <p>🌎 Moro em São Paulo - Brasil.</p>
-  <p>🏫 Estudando na Faculdade de Tecnologia de São Paulo - FATEC SP. [5/8]</p>
-  <p>💻 Interesses: Java, JavaScript, Angular e HTML/CSS.</p>
-  <p>💭 Um dia ainda quero poder ensinar tudo que eu aprendi.</p>
+  <p>⏳ 20 years old.</p>
+  <p>🌎 Live in São Paulo - Brasil.</p>
+  <p>🏫 Studying at Faculdade de Tecnologia de São Paulo - FATEC SP. [5/8]</p>
+  <p>💻 Languages: Java, JavaScript, Angular e HTML/CSS.</p>
+  <p>💭 One day I want to teach everything I've learned</p>
 
   <a href="https://paulomarquesg.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/static/v1?label=Portfolio&message=website&color=blue&style=for-the-badge"/></a>
 
@@ -33,14 +33,14 @@
 
 <div>
   
-  # Empresas
+  # Companies
 
-  <a href="https://www.trust.com.br"><p>Grupo Trust - Estagiário</a><br>(2021-2022)📆</p>
-  <a href="https://www.original.com.br"><p>Banco Original - Estagiário</a><br>(2022 - Atualmente)📆</p>
+  <a href="https://www.trust.com.br"><p>Grupo Trust - Trainee</a><br>(2021-2022)📆</p>
+  <a href="https://www.original.com.br"><p>Banco Original - Trainee</a><br>(2022 - Present)📆</p>
 </div>
 
 
-# Contato
+# Contact
 <a href="https://www.linkedin.com/in/paulo-marques-gonçalves/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>

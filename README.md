@@ -8,9 +8,9 @@
 
   <p>⏳ 20 years old.</p>
   <p>🌎 Live in São Paulo - Brasil.</p>
-  <p>🏫 Studying at Faculdade de Tecnologia de São Paulo - FATEC SP. [5/8]</p>
+  <p>🏫 Studying at Faculdade de Tecnologia de São Paulo - FATEC SP.</p>
   <p>💻 Languages: Java, JavaScript, Angular e HTML/CSS.</p>
-  <p>💭 One day I want to teach everything I've learned</p>
+  <p>💭 One day I want to teach everything I've learned.</p>
 
   <a href="https://paulomarquesg.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/static/v1?label=Portfolio&message=website&color=blue&style=for-the-badge"/></a>
 

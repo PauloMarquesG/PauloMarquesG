@@ -1,15 +1,11 @@
-![Olá,Seja bem-vindo ao perfil do Paulo](https://github.com/PauloMarquesG/PauloMarquesG/blob/main/header.png)
-
-  <!--<img align="right" height="250em" src="Photos/avatar.png" />-->
-
 <div aling="left">
   
-  # Paulo Marques Gonçalves
+  # Hi , I'm Paulo 👋
 
   <p>⏳ 20 years old.</p>
-  <p>🌎 Live in São Paulo - Brasil.</p>
+  <p>🌎 Live in São Paulo - Brazil.</p>
   <p>🏫 Studying at Faculdade de Tecnologia de São Paulo - FATEC SP.</p>
-  <p>💻 Languages: Java, JavaScript, Angular e HTML/CSS.</p>
+  <p>💻 Languages: Java, JavaScript, React.js e HTML/CSS.</p>
   <p>💭 One day I want to teach everything I've learned.</p>
 
   <a href="https://paulomarquesg.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/static/v1?label=Portfolio&message=website&color=blue&style=for-the-badge"/></a>
@@ -21,7 +17,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,typescript,mysql,php,c,python,spring"/><br>
-    <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,nodejs,git"/><br>
+    <img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap,nodejs,git"/><br>
     <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse"/>
   </a>
 </p>
@@ -35,8 +31,8 @@
   
   # Companies
 
-  <a href="https://www.trust.com.br"><p>Grupo Trust - Trainee</a><br>(2021-2022)📆</p>
-  <a href="https://www.original.com.br"><p>Banco Original - Trainee</a><br>(2022 - Present)📆</p>
+  <a href="https://www.trust.com.br"><p>Grupo Trust - Internship</a><br>(2021-2022)📆</p>
+  <a href="https://www.original.com.br"><p>Banco Original - Internship</a><br>(2022 - Present)📆</p>
 </div>
 
 

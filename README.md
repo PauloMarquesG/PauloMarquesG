@@ -8,7 +8,7 @@
   <p>💻 Languages: Java, JavaScript, React.js e HTML/CSS.</p>
   <p>💭 One day I want to teach everything I've learned.</p>
 
-  <a href="https://paulomarquesg.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/static/v1?label=Portfolio&message=website&color=blue&style=for-the-badge"/></a>
+  <a href="https://paulomarquesg.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=Portfolio&message=website&color=blue&style=for-the-badge"/></a>
 
 </div>
   

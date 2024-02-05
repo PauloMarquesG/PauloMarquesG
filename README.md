@@ -2,10 +2,9 @@
   
   # Hi , I'm Paulo 👋
 
-  <p>⏳ 20 years old.</p>
   <p>🌎 Live in São Paulo - Brazil.</p>
   <p>🏫 Studying at Faculdade de Tecnologia de São Paulo - FATEC SP.</p>
-  <p>💻 Languages: Java, JavaScript, React.js e HTML/CSS.</p>
+  <p>💻 Languages: Java, Node.js, Docker, MySQL, React.js e HTML/CSS.</p>
   <p>💭 One day I want to teach everything I've learned.</p>
 
   <a href="https://paulomarquesg.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=Portfolio&message=website&color=blue&style=for-the-badge"/></a>
@@ -16,7 +15,7 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,typescript,mysql,php,c,python,spring"/><br>
+    <img src="https://skillicons.dev/icons?i=java,js,typescript,mysql,php,cpp,spring"/><br>
     <img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap,nodejs,git"/><br>
     <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse"/>
   </a>
@@ -42,8 +41,5 @@
 </a>
 <a href="https://www.instagram.com/paulinhn_/" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-mediumvioletred?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-<a href="https://discord.gg/2uXyGHrzVu" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-slateblue?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
 </a>
 

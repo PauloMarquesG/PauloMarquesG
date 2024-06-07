@@ -31,7 +31,8 @@
   # Companies
 
   <a href="https://www.trust.com.br"><p>Grupo Trust - Internship</a><br>(2021-2022)📆</p>
-  <a href="https://www.original.com.br"><p>Banco Original - Internship</a><br>(2022 - Present)📆</p>
+  <a href="https://www.original.com.br"><p>Banco Original - Internship</a><br>(2024 - 2024)📆</p>
+  <a href="https://www.original.com.br"><p>Banco Original - Systems Analyst</a><br>(2024 - Present)📆</p>
 </div>
 
 

@@ -15,7 +15,7 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,typescript,nodejs,mysql,php,cpp"/><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,js,typescript,cs,nodejs,mysql,php"/><br>
     <img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap,git"/><br>
     <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse"/>
   </a>
@@ -32,7 +32,7 @@
 
   <a href="https://www.trust.com.br"><p>Grupo Trust - Internship</a><br>(2021-2022)📆</p>
   <a href="https://www.original.com.br"><p>Banco Original - Internship</a><br>(2024 - 2024)📆</p>
-  <a href="https://www.original.com.br"><p>Banco Original - Systems Analyst</a><br>(2024 - Present)📆</p>
+  <a href="https://www.original.com.br"><p>Banco Original - Systems Analyst I</a><br>(2024 - Present)📆</p>
 </div>
 
 

@@ -3,7 +3,7 @@
   # Hi , I'm Paulo 👋
 
   <p>🌎 Live in São Paulo - Brazil.</p>
-  <p>🏫 Studying at Faculdade de Tecnologia de São Paulo - FATEC SP.</p>
+  <p>🏫 Graduated from Faculdade de Tecnologia de São Paulo - FATEC SP.</p>
   <p>💻 Languages: Java, C#, Docker, MySQL e React.js.</p>
   <p>💭 One day I want to teach everything I've learned.</p>
 
@@ -15,9 +15,9 @@
   
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,typescript,cs,mysql"/><br>
+    <img src="https://skillicons.dev/icons?i=java,cs,spring,nodejs,typescript,mysql"/><br>
     <img src="https://skillicons.dev/icons?i=react,angular,html,css,js,bootstrap"/><br>
-    <img src="https://skillicons.dev/icons?i=idea,rider,vscode,git,azure,github,docker"/>
+    <img src="https://skillicons.dev/icons?i=idea,rider,vscode,git,azure,github,docker,aws"/>
   </a>
 </p>
 
